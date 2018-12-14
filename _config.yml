@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hello@peterlum.co
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: PeterLungLum
 github_username: peterlunglum
 markdown: kramdown
